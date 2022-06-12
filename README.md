@@ -10,14 +10,14 @@ The purpose of this analysis is to determine whether either model is worth pursu
 Results
 
   Machine Learning Model 1:
-*Accuracy: 0.91
-*Precision: 0.99
-*Recall: 0.99
+  *Accuracy: 0.91
+  *Precision: 0.99
+  *Recall: 0.99
 
   Machine Learning Model 2:
-*Accuracy: 0.99
-*Precision: 0.99
-*Recall: 0.99
+  *Accuracy: 0.99
+  *Precision: 0.99
+  *Recall: 0.99
 
 
 Summary
